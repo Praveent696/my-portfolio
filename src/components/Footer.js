@@ -3,6 +3,7 @@ import React, { Component } from "react";
 class Footer extends Component {
   render() {
     if (this.props.sharedBasicInfo) {
+      console.log(this.props.sharedBasicInfo)
       var networks = this.props.sharedBasicInfo.social.map(function (network) {
         return (
           <span key={network.name} className="m-4">
@@ -17,6 +18,9 @@ class Footer extends Component {
     return (
       <footer>
         <div className="col-md-12">
+          <div>
+              <i className="fas fa fa-inverse fa-phone" /> : {this.props.sharedBasicInfo ? this.props.sharedBasicInfo.contact.contact_numbers.join(', '): ''}
+          </div>
           <div className="social-links">{networks}</div>
 
           <div className="copyright py-4 text-center">
