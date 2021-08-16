@@ -22,6 +22,16 @@
           "name": "LinkedIn",
           "url": "https://www.linkedin.com/in/iamparveen",
           "class": "fab fa-linkedin"
+        },
+        {
+          "name": "Phone",
+          "url": "tel:+919015848590",
+          "class": "fa fab fa-phone"
+        },
+        {
+          "name": "Email",
+          "url": "mailto:praveent696@gamil.com",
+          "class": "fa fab fa-envelope"
         }
       ],
       "image": "myProfile.jpg"
