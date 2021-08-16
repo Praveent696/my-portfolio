@@ -18,9 +18,6 @@ class Footer extends Component {
     return (
       <footer>
         <div className="col-md-12">
-          <div>
-              <i className="fas fa fa-inverse fa-phone" /> : {this.props.sharedBasicInfo ? this.props.sharedBasicInfo.contact.contact_numbers.join(', '): ''}
-          </div>
           <div className="social-links">{networks}</div>
 
           <div className="copyright py-4 text-center">
