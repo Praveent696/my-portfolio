@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Parveen Kumar. Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Strong entrepreneurship professional with a Engineer's Degree focused in Computer Science from Northern India Engineering College. Thank you 💜",
+      "description_header": "👋 I'm Parveen Kumar",
+      "description": "Full-stack soware engineer with 9 years of experience in .NET Framework, Microservices, Azure, React, and Redux.Extensive experience in developing and maintaining systems, improving performance, and delivering reliable software I am seeking a role where I can contribute to team growth and development. Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -115,9 +115,27 @@
     ],
     "experience": [
       {
+        "company": "S&P Global Inc.",
+        "title": "Software Engineer",
+        "years": "03.2022 - present",
+        "mainTech": [
+          ".NET", "C#", "React", "Redux", "MSSQL"
+        ],
+        "technologies": [
+          "REST API",
+          "Web Application",
+          "JavaScript",
+          "Bootstrap",
+          "EF Core",
+          ".NET Core",
+          "React",
+          "Redux"
+        ]
+      },
+      {
         "company": "GlobalLogic Inc.",
         "title": "Sr. Software Engineer",
-        "years": "02.2020 - present",
+        "years": "02.2020 - 03.2022",
         "mainTech": [
           ".NET", "C#", "React", "MSSQL"
         ],
