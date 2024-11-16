@@ -1,0 +1,170 @@
+{
+    "basic_info": {
+      "description_header": "👋 I'm Parveen Kumar",
+      "description": "Full-stack software engineer with 9 years of experience in .NET Framework, Microservices, Azure, React, and Redux.Extensive experience in developing and maintaining systems, improving performance, and delivering reliable software I am seeking a role where I can contribute to team growth and development. Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Microsoft Dynamics CRM 365",
+        "startDate": "2020",
+        "description": "Responsible for overseeing the company's requirements, development, testing and deployment of Microsoft CRM projects. Customized Field service module to integrate inspection into it asp per business process. Used MS Dynamics CRM customization tool to customize system component such as forms, views etc. Designed custom action to optimize system.",
+        "images": [
+          "images/portfolio/d365/p1.png",
+          "images/portfolio/d365/p2.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "HCFC",
+        "startDate": "2018",
+        "description": "HCF is a compliance system for Healthcare. It provides ongoing compliance status notifications, tracking and reports, all which improve hospitals and nursing homes abilities to conform to the The Joint Commission's physical environment compliance requirements.",
+        "images": [
+          "images/portfolio/hcfc/p1.png",
+          "images/portfolio/hcfc/p2.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          },
+          {
+            "class": "devicon-dot-net-plain",
+            "name": "ASP.NET Core"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          }
+        ]
+      },
+      {
+        "title": "CatchUP",
+        "startDate": "2016",
+        "description": "Event-scheduling app that works with phone numbers as opposed to traditional emails. It’s a cross platform, lightweight and a quick way to schedule meetings especially when you are dealing with variety of email platforms for invitees. Simply put, it’s like SMS for meetings and helps people schedule and manage meetings easily.",
+        "images": [
+          "images/portfolio/catchup/p1.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          },
+          {
+            "class": "devicon-dot-net-plain",
+            "name": "ASP.NET Core"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          }
+        ]
+      },
+      {
+        "title": "eMembership Card",
+        "startDate": "2015",
+        "description": "eMembership card is digital card management system integrated with multiple membership system like Altru, Raiser Edge, NXT etc.",
+        "images": [
+          "images/portfolio/emembership/p1.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          },
+          {
+            "class": "devicon-dot-net-plain",
+            "name": "ASP.NET"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "S&P Global Inc.",
+        "title": "Software Engineer",
+        "years": "03.2022 - present",
+        "mainTech": [
+          ".NET", "C#", "React", "Redux", "MSSQL"
+        ],
+        "technologies": [
+          "REST API",
+          "Web Application",
+          "JavaScript",
+          "Bootstrap",
+          "EF Core",
+          ".NET Core",
+          "React",
+          "Redux"
+        ]
+      },
+      {
+        "company": "GlobalLogic Inc.",
+        "title": "Sr. Software Engineer",
+        "years": "02.2020 - 03.2022",
+        "mainTech": [
+          ".NET", "C#", "React", "MSSQL"
+        ],
+        "technologies": [
+          "REST API",
+          "Web Application",
+          "JavaScript",
+          "Bootstrap",
+          "EF Core",
+          ".NET Core",
+          "React"
+        ]
+      },
+      {
+        "company": "Inficare Software Technologies",
+        "title": "Jr.Developer - Sr. Software Engineer",
+        "years": "10.2015 - 02.2020",
+        "mainTech": [
+          ".NET", "C#", "JavaScript", "MSSQL"
+        ],
+        "technologies": [
+          "REST API",
+          "Web Application",
+          "JavaScript",
+          "Bootstrap",
+          "EF",
+          "HTML 5",
+          "CSS3"
+        ]
+      }
+    ]
+  }

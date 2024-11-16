@@ -1,0 +1,88 @@
+{
+    "basic_info": {
+      "name": "Parveen Kumar",
+      "titles": [ "Full stack Developer", "Senior Software Engineer","Backend Developer","Front-end Developer", "Technology Enthusiast"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/Praveent696",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/Praveen20november",
+          "class": "fab fa-instagram"
+        },
+        {
+          "name": "facebook",
+          "url": "https://www.facebook.com/praveen2011",
+          "class": "fab fa-facebook"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/iamparveen",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "Phone",
+          "url": "tel:+919015848590",
+          "class": "fa fab fa-phone"
+        },
+        {
+          "name": "Email",
+          "url": "mailto:praveent696@gamil.com",
+          "class": "fa fab fa-envelope"
+        },
+        {
+          "name": "Resume",
+          "url": "https://raw.githubusercontent.com/Praveent696/my-resume/refs/heads/main/rendercv_output/Parveen_Kumar_CV.pdf",
+          "class":"fa fab fa-file"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "80"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "C#",
+          "class": "devicon-csharp-plain",
+          "level": "65"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        }
+      ]
+    }
+  }
