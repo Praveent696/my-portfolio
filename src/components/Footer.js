@@ -18,7 +18,10 @@ class Footer extends Component {
     return (
       <footer>
         <div className="col-md-12">
-          <div className="social-links">{networks}</div>
+          <div className="social-links">
+            {networks}
+            <a href="https://raw.githubusercontent.com/Praveent696/my-resume/032cf016e679abe9130af0262b863a0601df4013/rendercv_output/Parveen_Kumar_CV.pdf" download={true}>Download resume</a>
+          </div>
 
           <div className="copyright py-4 text-center">
             <div className="container">
